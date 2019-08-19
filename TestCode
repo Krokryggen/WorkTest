@@ -1,8 +1,12 @@
-class TestCode
+using System;
+
+namespace GitTest
 {
-    static void Main(string[] args)
+    class Program
     {
-        
-        System.Console.WriteLine("Hello World");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
